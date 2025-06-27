@@ -17,7 +17,7 @@ Hint: Use the function tables below to locate problems such as missing .value, i
 ชื่อกิจกรรม: Vue Debug Challenge - Productivity Dashboard
 
 โจทย์:
-นักเรียนได้รับโปรเจกต์ Vue ที่มีฟีเจอร์หลากหลาย เช่น To-Do List, Timer, Quote Generator, Calculator และ Notepad แต่ในโค้ดมีการแอบใส่ข้อผิดพลาด (bugs) และใช้ฟังก์ชันผิดที่ ทำให้ระบบบางอย่างไม่ทำงานหรือทำงานผิดพลาด
+พวกุณได้รับโปรเจกต์ Vue ที่มีฟีเจอร์หลากหลาย เช่น To-Do List, Timer, Quote Generator, Calculator และ Notepad แต่ในโค้ดมีการแอบใส่ข้อผิดพลาด (bugs) และใช้ฟังก์ชันผิดที่ ทำให้ระบบบางอย่างไม่ทำงานหรือทำงานผิดพลาด
 
 เป้าหมาย:
 ให้ตรวจสอบและแก้ไขโค้ดให้สามารถใช้งานได้ถูกต้องครบทุกฟีเจอร์ โดยใช้ความเข้าใจใน reactive function, DOM event และ logic พื้นฐานของ JavaScript และ Vue 3
